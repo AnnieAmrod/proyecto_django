@@ -1,5 +1,6 @@
 site_name: Mi Portfolio
 site_url: https://annieamrod.github.io/proyecto_django/
+docs_dir: docs/
 nav:
-  - Home: docs/index.md
+  - Home: index.md
 theme: material
