@@ -11,7 +11,7 @@ El icono más famoso de Python son dos serpientes entrelazadas muy minimalistas,
 <source media="(min-width: 200px)" srcset="img/django_logo_200.png">
 <source media="(min-width: 160px)" srcset="img/django_logo_160.png">
 <source media="(min-width: 48px)" srcset="img/django_logo_48.png">
-<img src="img/django_logo.png" alt="Imagen responsive de Python">
+<img src="img/django_logo_1920.png" alt="Imagen responsive de Python">
 </picture>
 
 Para consultar la documentación visita [Instalación Django Paso por Paso](https://drive.google.com/file/d/1uN34NHsJH79Jvxwn1-WGeTTKxI08bWwa/view?usp=share_link).
