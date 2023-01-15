@@ -1,5 +1,19 @@
 # Cómo crear Mi Portfolio en Django
 
+Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como modelo–vista–controlador.
+
+El icono más famoso de Python son dos serpientes entrelazadas muy minimalistas, como podemos ver más abajo.
+
+<picture>
+<source media="(min-width: 1920px)" srcset="img/django_logo_1920.png">
+<source media="(min-width: 1280px)" srcset="img/django_logo_1280.png">
+<source media="(min-width: 720px)" srcset="img/django_logo_720.png">
+<source media="(min-width: 200px)" srcset="img/django_logo_200.png">
+<source media="(min-width: 160px)" srcset="img/django_logo_160.png">
+<source media="(min-width: 48px)" srcset="img/django_logo_48.png">
+<img src="img/django_logo.png" alt="Imagen responsive de Python">
+</picture>
+
 Para consultar la documentación visita [Instalación Django Paso por Paso](https://drive.google.com/file/d/1uN34NHsJH79Jvxwn1-WGeTTKxI08bWwa/view?usp=share_link).
 
 ![Imagen de Mi Portfolio](img/panel.jpg "Imagen del panel de Mi Portfolio")
@@ -77,3 +91,4 @@ ___
 Y para finalizar, nuestra máxima siempre es:
 > No es un bug, es una característica no documentada (Alan J. Perlis).
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional</a>
